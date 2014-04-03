@@ -1,0 +1,133 @@
+/* Chen Jiang and Tao Tao */
+
+a{
+	text-decoration: none;
+}
+
+hr{
+	clear:both;
+}
+
+header{
+	width: 960px;
+	margin: auto;
+	position: relative;
+	background-color: black;
+}
+
+#homeimg{
+	width: 30%;
+	margin-left: 330px;
+}
+
+nav{
+	width: 950px;
+	height: 50px;
+	margin-top: -18px;
+	border: 5px solid rgb(122,3,7); 
+	border-radius: 6px;	
+}
+
+nav a{
+	color: rgb(122,3,7);
+}
+
+body{
+	width: 960px;
+	margin: auto;
+}
+
+.menue {
+	padding: 15px;
+	margin: 0;
+	text-align:center;
+}
+
+li{
+	list-style: none;
+	float:left;
+	width: 220px;
+	height: 25px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.fli{
+	margin-top: 8px;
+}
+
+.fli li{
+	border: 2px solid white;
+}
+
+li ul{
+	position: relative;
+	left: -999px;
+}
+
+li:hover ul{
+	left: auto;
+}
+
+li ul li{
+	background-color: rgb(122,3,7);
+	text-align: left;
+	width: 200px;
+	margin-left: 40px;
+}
+
+li ul li a{
+	line-height: 165%;
+	color: white;
+	margin-left: 20px;
+}
+
+#himage0{
+	width: 960px;
+	
+}
+
+
+
+
+
+footer{
+	width: 100%;
+	display: block;
+	clear:both;
+	text-align: center;
+}
+
+footer span a{
+	text-decoration: none;
+	color: rgb(122,3,7);
+	font-family: sans-serif;f
+	margin-top: -50px;
+}
+
+#divimg{
+	float: left;
+	width: 23%;
+	margin: 9px;
+	
+}
+body{
+	background-color: black;
+	
+}
+div{
+	border: 5px solid rgb(122,3,7); 
+	clear: both;
+	
+	
+}
+#secdivimg{
+	float: left;
+	width: 32%;
+	margin: 6px;
+	height: 150px;
+	
+}
+br{
+	clear: both;
+}
